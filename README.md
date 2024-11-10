@@ -11,7 +11,7 @@ I am a Data Analyst by profession. I started my journey in Software Engineering.
 <br><br>
 <strong>Languages</strong>⚡: SQL, Python
 <br><br>
-<strong>Skill Set</strong>🦾: Data Analysis, Dashboards, Data Wrangling, Data Cleaning, Data Modelling, ETL, ELT, Building Data Pipelines, Data Vizualization, Forecasting, A/B testing, Linear Regression (simple, logistic), Basic ML
+<strong>Skill Set</strong>🦾: Data Analysis, Dashboards, Data Wrangling, Data Cleaning, Data Modelling, ETL, ELT, Building Data Pipelines, Data Vizualization, Forecasting, A/B testing, Linear Regression (simple, logistic), Logistic Regression, Classification
 <br><br>
 <strong>Certifications</strong> 🎓 | Google Certified Advanced Data Analyst(ongoing) | Tableau Desktop Specialist | Azure Fundamentals AZ-900 | Springboard Certified Data Scientist
 
