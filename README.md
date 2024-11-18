@@ -21,38 +21,40 @@ I am a Data Analyst by profession. I started my journey in Software Engineering.
 ## List of Projects
 
 ### :chart_with_upwards_trend: Data Visualization (Tableau Public)
->[Practical implementation of filtr actions and dynamic parameters](https://public.tableau.com/app/profile/shan.rathore/viz/NetflixAnalysis_17298226149380/Netflix-AnOverview)<br>
->[Practical implementation of Visualization in tooltips](https://public.tableau.com/app/profile/shan.rathore/viz/Netflix_analysis_17296641433150/GlobalOverview)<br>
+- [Practical implementation of filtr actions and dynamic parameters](https://public.tableau.com/app/profile/shan.rathore/viz/NetflixAnalysis_17298226149380/Netflix-AnOverview)<br>
+- [Practical implementation of Visualization in tooltips](https://public.tableau.com/app/profile/shan.rathore/viz/Netflix_analysis_17296641433150/GlobalOverview)<br>
 
 ### :chart_with_upwards_trend: Exploratory Data Analysis
->[Missing data can also tell a story: A Case Study](https://github.com/shantanurathore/Data_Cleaning_Case_Study/blob/main/Clean_Your_Data_GCDA.md)<br>
->[Visual Analysis of Waze user data to identify characterstics of users who churn]()<br>
+- [Missing data can also tell a story: A Case Study](https://github.com/shantanurathore/Data_Cleaning_Case_Study/blob/main/Clean_Your_Data_GCDA.md)<br>
+- Waze User Churn Analysis
+  - [Visual Analysis of Waze user data to identify characterstics of users who churn](https://github.com/shantanurathore/WazeUserChurnAnalysis/blob/main/Waze_User_Data_EDA.ipynb)<br>
+  - [Presentation: Visual Analysis of Waze user data to identify characterstics of users who churn](https://github.com/shantanurathore/WazeUserChurnAnalysis/blob/main/WazeUserChurnAnalysisEDA.pdf)<br>
 
 ### Linear Regression
-> #### ECommerce Sales Data: Predicting total spend (Multiple Parts)
-> [Part 1: Exploratory Data Analysis and Data Cleaning]<br>
+- #### ECommerce Sales Data: Predicting total spend (Multiple Parts)
+   - [Part 1: Exploratory Data Analysis and Data Cleaning]<br>
 
-> #### Predicting House Prices using Boston Housing Data
-> *Exercises as part of Data Science Bootcamp*<br>
-> [Predicting house prices using linear regression](https://github.com/shantanurathore/SpringBoardExercises/blob/master/Mini_Project_Linear_Regression.ipynb)<br>
+- #### Predicting House Prices using Boston Housing Data
+  *Exercises as part of Data Science Bootcamp*<br>
+   - [Predicting house prices using linear regression](https://github.com/shantanurathore/SpringBoardExercises/blob/master/Mini_Project_Linear_Regression.ipynb)<br>
 
 ### 📤 A/B Testing
 
->[A/B Testing guide: Running an A/B test on an Ad Dataset](https://github.com/shantanurathore/AB_Testing_guide/blob/main/AB_testing_guide.md)<br>
+- [A/B Testing guide: Running an A/B test on an Ad Dataset](https://github.com/shantanurathore/AB_Testing_guide/blob/main/AB_testing_guide.md)<br>
 
 ### Binary Classification Project
 
->[Payment Default prediction on a bank accounts dataset](https://github.com/shantanurathore/Payment-Default-Prediction/blob/master/DataClean_Pandas1.ipynb)<br>
+- [Payment Default prediction on a bank accounts dataset](https://github.com/shantanurathore/Payment-Default-Prediction/blob/master/DataClean_Pandas1.ipynb)<br>
 
 ### :stopwatch: Time Series Analysis
 
->#### Bike Sharing Dataset
->[Bike Sharing Dataset: Predicting when a particular cycle staton will run out of bikes - Jupyter Notebook](https://github.com/shantanurathore/TimeSeries-Analysis-on-bike-sharing-data/blob/master/Capstone2_prod.ipynb)<br>
->[Bike Sharing Dataset: Predicting when a particular cycle staton will run out of bikes - Presentation](https://github.com/shantanurathore/TimeSeries-Analysis-on-bike-sharing-data/blob/master/Bike%20Sharing%20Data.pptx)<br>
+#### Bike Sharing Dataset
+- [Bike Sharing Dataset: Predicting when a particular cycle staton will run out of bikes - Jupyter Notebook](https://github.com/shantanurathore/TimeSeries-Analysis-on-bike-sharing-data/blob/master/Capstone2_prod.ipynb)<br>
+- [Bike Sharing Dataset: Predicting when a particular cycle staton will run out of bikes - Presentation](https://github.com/shantanurathore/TimeSeries-Analysis-on-bike-sharing-data/blob/master/Bike%20Sharing%20Data.pptx)<br>
 
 ### :hammer_and_wrench: Data Transformation projects
 
->[Local implementation of dbt: Data Transformations on an eCommerce Dataset](https://github.com/shantanurathore/dbt_ecommerce_project)<br>
+- [Local implementation of dbt: Data Transformations on an eCommerce Dataset](https://github.com/shantanurathore/dbt_ecommerce_project)<br>
 
 
 <!--
