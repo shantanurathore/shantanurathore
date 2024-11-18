@@ -20,11 +20,11 @@ I am a Data Analyst by profession. I started my journey in Software Engineering.
 <br><br>
 ## List of Projects
 
-### Data Visualization (Tableau Public)
+### :chart_with_upwards_trend: Data Visualization (Tableau Public)
 >[Practical implementation of filtr actions and dynamic parameters](https://public.tableau.com/app/profile/shan.rathore/viz/NetflixAnalysis_17298226149380/Netflix-AnOverview)<br>
 >[Practical implementation of Visualization in tooltips](https://public.tableau.com/app/profile/shan.rathore/viz/Netflix_analysis_17296641433150/GlobalOverview)<br>
 
-### Exploratory Data Analysis
+### :chart_with_upwards_trend: Exploratory Data Analysis
 >[Missing data can also tell a story: A Case Study](https://github.com/shantanurathore/Data_Cleaning_Case_Study/blob/main/Clean_Your_Data_GCDA.md)<br>
 >[Visual Analysis of Waze user data to identify characterstics of users who churn]()<br>
 
@@ -36,7 +36,7 @@ I am a Data Analyst by profession. I started my journey in Software Engineering.
 > *Exercises as part of Data Science Bootcamp*<br>
 > [Predicting house prices using linear regression](https://github.com/shantanurathore/SpringBoardExercises/blob/master/Mini_Project_Linear_Regression.ipynb)<br>
 
-### A/B Testing
+### 📤 A/B Testing
 
 >[A/B Testing guide: Running an A/B test on an Ad Dataset](https://github.com/shantanurathore/AB_Testing_guide/blob/main/AB_testing_guide.md)<br>
 
@@ -44,13 +44,13 @@ I am a Data Analyst by profession. I started my journey in Software Engineering.
 
 >[Payment Default prediction on a bank accounts dataset](https://github.com/shantanurathore/Payment-Default-Prediction/blob/master/DataClean_Pandas1.ipynb)<br>
 
-### Time Series Analysis
+### :stopwatch: Time Series Analysis
 
 >#### Bike Sharing Dataset
 >[Bike Sharing Dataset: Predicting when a particular cycle staton will run out of bikes - Jupyter Notebook](https://github.com/shantanurathore/TimeSeries-Analysis-on-bike-sharing-data/blob/master/Capstone2_prod.ipynb)<br>
 >[Bike Sharing Dataset: Predicting when a particular cycle staton will run out of bikes - Presentation](https://github.com/shantanurathore/TimeSeries-Analysis-on-bike-sharing-data/blob/master/Bike%20Sharing%20Data.pptx)<br>
 
-### Data Transformation projects
+### :hammer_and_wrench: Data Transformation projects
 
 >[Local implementation of dbt: Data Transformations on an eCommerce Dataset](https://github.com/shantanurathore/dbt_ecommerce_project)<br>
 
