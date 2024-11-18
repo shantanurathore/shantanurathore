@@ -2,8 +2,8 @@
 My name is Shantanu Rathore. I also go by Shan. 
 I am a Data Analyst by profession. I started my journey in Software Engineering. Pursued an MBA hoping to get into consulting but on my journey I doscovered the field of Data Analytics/Business Intelligence and how impactful it is. I am not limited to just analyzing data. I also find Data Engineering fascinating and equally powerful. I eventually want to transition into Data Science. 
 
-🔭 I’m currently working on implementing [DBT](www.getdbt.com) on my local machine and the cloud. 
-🔭 Deep Diving into Linear Regression and its applications
+🔭 I’m currently working on implementing [DBT](www.getdbt.com) on my local machine and the cloud.<br>
+🔭 Deep Diving into Linear Regression and its applications<br>
 
 🌱 I am learning how to implement Machine Learning Projects on the cloud<br>
 🌱 Building programs which can leverage LLMs to analyze and categorize text data<br>
@@ -50,7 +50,9 @@ I am a Data Analyst by profession. I started my journey in Software Engineering.
 >[Bike Sharing Dataset: Predicting when a particular cycle staton will run out of bikes - Jupyter Notebook](https://github.com/shantanurathore/TimeSeries-Analysis-on-bike-sharing-data/blob/master/Capstone2_prod.ipynb)<br>
 >[Bike Sharing Dataset: Predicting when a particular cycle staton will run out of bikes - Presentation](https://github.com/shantanurathore/TimeSeries-Analysis-on-bike-sharing-data/blob/master/Bike%20Sharing%20Data.pptx)<br>
 
+### Data Transformation projects
 
+>[Local implementation of dbt: Data Transformations on an eCommerce Dataset](https://github.com/shantanurathore/dbt_ecommerce_project)<br>
 
 
 <!--
