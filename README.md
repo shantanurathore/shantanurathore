@@ -1,6 +1,6 @@
 ## Hi 👋
 My name is Shantanu Rathore. I also go by Shan. 
-I am a Senior Data Analyst by profession. My last role was with [Ideo][https://www.ideo.com] as their Business Intelligence Lead. I started my journey in Software Engineering. Pursued an MBA hoping to get into consulting but on my journey I doscovered the field of Data Analytics/Business Intelligence and how impactful it is. I am not limited to just analyzing data. I also find Data Engineering fascinating and equally powerful. I eventually want to transition into Data Science and work in the Data Scientist Role.
+I am a Senior Data Analyst by profession. My last role was with [Ideo](https://www.ideo.com) as their Business Intelligence Lead. I started my journey in Software Engineering. Pursued an MBA hoping to get into consulting but on my journey I doscovered the field of Data Analytics/Business Intelligence and how impactful it is. I am not limited to just analyzing data. I also find Data Engineering fascinating and equally powerful. I eventually want to transition into Data Science and work in the Data Scientist Role.
 
 ### Currently working on
 🔭 Bulding end-to-end Data Apps to solve core Data Science or Analytics problems
@@ -21,7 +21,7 @@ I am a Senior Data Analyst by profession. My last role was with [Ideo][https://w
 ## List of Projects
 
 ### :chart_with_upwards_trend: Data Visualization (Tableau Public)
-- [Practical implementation of filtr actions and dynamic parameters](https://public.tableau.com/app/profile/shan.rathore/viz/NetflixAnalysis_17298226149380/Netflix-AnOverview)<br>
+- [Practical implementation of filter actions and dynamic parameters](https://public.tableau.com/app/profile/shan.rathore/viz/NetflixAnalysis_17298226149380/Netflix-AnOverview)<br>
 - [Practical implementation of Visualization in tooltips](https://public.tableau.com/app/profile/shan.rathore/viz/Netflix_analysis_17296641433150/GlobalOverview)<br>
 
 ### :chart_with_upwards_trend: Exploratory Data Analysis
