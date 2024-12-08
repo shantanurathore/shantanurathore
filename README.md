@@ -3,11 +3,11 @@ My name is Shantanu Rathore. I also go by Shan.
 I am a Senior Data Analyst by profession. My last role was with [Ideo](https://www.ideo.com) as their Business Intelligence Lead. I started my journey in Software Engineering. Pursued an MBA hoping to get into consulting but on my journey I doscovered the field of Data Analytics/Business Intelligence and how impactful it is. I am not limited to just analyzing data. I also find Data Engineering fascinating and equally powerful. I eventually want to transition into Data Science and work in the Data Scientist Role.
 
 ### Currently working on
-🔭 Bulding end-to-end Data Apps to solve core Data Science or Analytics problems
-🔭 Exploring HuggingFace and building simple applications to solve complex problems
-🔭 Implementing DBT on my local machine for some data transformation automations
-🔭 Deepdiving into Machine Learning concepts
-🔭 The occasional Data Visualization project
+🔭 Bulding end-to-end Data Apps to solve core Data Science or Analytics problems <br>
+🔭 Exploring HuggingFace and building simple applications to solve complex problems <br>
+🔭 Implementing DBT on my local machine for some data transformation automations <br>
+🔭 Deepdiving into Machine Learning concepts <br>
+🔭 The occasional Data Visualization project <br>
 
 <strong>Tools</strong>💻: Tableau, Looker Studio, Power BI, MySQL, PostGRES Server, SQL Server, AWS (RDS), AWS S3, AWS Lambda
 <br><br>
