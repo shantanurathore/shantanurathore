@@ -9,7 +9,7 @@ I am a Senior Data Analyst by profession. My last role was with [Ideo](https://w
 🔭 Deepdiving into Machine Learning concepts <br>
 🔭 The occasional Data Visualization project <br>
 
-<strong>Tools</strong>💻: Tableau, Looker Studio, Power BI, MySQL, PostGRES Server, SQL Server, AWS (RDS), AWS S3, AWS Lambda
+<strong>Tools</strong>💻: Tableau, Looker Studio, Power BI, MySQL, PostGRES Server, SQL Server, AWS (RDS), AWS S3, AWS Lambda, AWS Redshift
 <br><br>
 <strong>Languages</strong>⚡: SQL, Python
 <br><br>
@@ -19,6 +19,9 @@ I am a Senior Data Analyst by profession. My last role was with [Ideo](https://w
 
 <br><br>
 ## List of Projects
+
+### A/B Testing Web App 
+- [A web application which analyses A/B testing dataset][]
 
 ### :chart_with_upwards_trend: Data Visualization (Tableau Public)
 - [Practical implementation of filter actions and dynamic parameters](https://public.tableau.com/app/profile/shan.rathore/viz/NetflixAnalysis_17298226149380/Netflix-AnOverview)<br>
