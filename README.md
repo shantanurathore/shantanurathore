@@ -21,7 +21,7 @@ I am a Senior Data Analyst by profession. My last role was with [Ideo](https://w
 ## List of Projects
 
 ### A/B Testing Web App 
-- [A web application which analyses A/B testing dataset][]
+- [A web application which analyses A/B testing dataset]()
 
 ### :chart_with_upwards_trend: Data Visualization (Tableau Public)
 - [Practical implementation of filter actions and dynamic parameters](https://public.tableau.com/app/profile/shan.rathore/viz/NetflixAnalysis_17298226149380/Netflix-AnOverview)<br>
