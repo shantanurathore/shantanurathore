@@ -19,6 +19,7 @@ My roles in different companies have been at the intersection of Data Engineerin
 <strong>Skill Set</strong>🦾: Data Analysis, Dashboards, Data Wrangling, Data Cleaning, Data Modelling, ETL, ELT, Building Data Pipelines, Data Vizualization, Forecasting, A/B testing, Linear Regression (simple, logistic), Logistic Regression, Classification
 <br><br>
 <strong>Certifications</strong> 
+<br>
 🎓 Google Certified Advanced Data Analyst(ongoing)
 <br>
 🎓 Tableau Desktop Specialist
