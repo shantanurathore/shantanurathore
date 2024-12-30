@@ -18,7 +18,14 @@ My roles in different companies have been at the intersection of Data Engineerin
 <br><br>
 <strong>Skill Set</strong>🦾: Data Analysis, Dashboards, Data Wrangling, Data Cleaning, Data Modelling, ETL, ELT, Building Data Pipelines, Data Vizualization, Forecasting, A/B testing, Linear Regression (simple, logistic), Logistic Regression, Classification
 <br><br>
-<strong>Certifications</strong> 🎓 | Google Certified Advanced Data Analyst(ongoing) | Tableau Desktop Specialist | Azure Fundamentals AZ-900 | Springboard Certified Data Scientist
+<strong>Certifications</strong> 
+🎓 Google Certified Advanced Data Analyst(ongoing)
+<br>
+🎓 Tableau Desktop Specialist
+<br>
+🎓 Azure Fundamentals AZ-900
+<br>
+🎓 Springboard Certified Data Scientist
 
 <br><br>
 ## List of Projects
