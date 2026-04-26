@@ -1,30 +1,40 @@
 ## Hi 👋
-My name is Shantanu Rathore. I also go by Shan. 
-Welcome to my GitHub profile page. I share my learnings here.
-I am a Senior Data Analyst by profession. My last role was with [Ideo](https://www.ideo.com) as their Business Intelligence Lead. I started my journey in Software Engineering. While pursuing an MBA I discovered the field of Data Analytics/Business Intelligence and how impactful it is. 
-My roles in different companies have been at the intersection of Data Engineering, Data Analytics and Data Science. In today's fast changing world of data analytics, it is important to have a significant knowledge base in all these areas no matter what our roles or titles say.
+# Hi, I'm Shantanu Rathore — also Shan 👋
 
-### Currently working on
-🔭 Bulding end-to-end ETL flow with a focus on Data Quality <br>
-🔭 Bulding end-to-end Data Apps to solve core Data Science or Analytics problems <br>
-🔭 Exploring HuggingFace and building simple applications to solve complex problems <br>
-🔭 Implementing DBT on my local machine for some data transformation automations <br>
-🔭 Deepdiving into Machine Learning concepts <br>
-🔭 The occasional Data Visualization project <br>
+I'm **Manager of BI & Analytics at a PE-backed multi-site healthcare company** in Houston, TX. I run a team of six analysts and partner with operations, finance, and clinical leadership to turn raw operational and clinical data into the metrics that actually run the business.
 
-<strong>Tools</strong>💻: Tableau, Looker Studio, Power BI, MySQL, PostGRES Server, SQL Server, AWS (RDS), AWS S3, AWS Lambda, AWS Redshift
-<br><br>
-<strong>Languages</strong>⚡: SQL, Python
-<br><br>
-<strong>Skill Set</strong>🦾: Data Analysis, Dashboards, Data Wrangling, Data Cleaning, Data Modelling, ETL, ELT, Building Data Pipelines, Data Vizualization, Forecasting, A/B testing, Linear Regression (simple, logistic), Logistic Regression, Classification
-<br><br>
-<strong>Certifications</strong> 
-<br>
-🎓 Google Certified Advanced Data Analyst(ongoing)
-<br>
-🎓 Tableau Desktop Specialist
-<br>
-🎓 Azure Fundamentals AZ-900
+I started in software engineering, picked up an MBA along the way, and have spent the last decade working at the intersection of data engineering, analytics, and applied ML. My focus today sits in three places: (1) production analytics platforms our operators use every day to run the business, (2) LLM-powered workflows that compress analyst-hours into minutes, and (3) the kind of data infrastructure and reporting discipline a PE sponsor expects from a portfolio company.
+
+---
+
+## What I'm building right now
+
+- **Physician Scorecard NLP** — extracting structured signals from unstructured physician narrative using LLMs. Currently extending the published version into a more robust, multi-source build.
+- **SQL Server health monitor** — a Python + LLM workflow that scans daily I/O, latency, and read/write logs, identifies the top risk signals across the database, and posts a plain-English maintenance summary to the team.
+- **EHR & marketing data pipelines** — ingesting structured and semi-structured feeds from ModMed (EHR) and Birdeye (reputation & marketing analytics) into the warehouse with quality checks and modeled transformation logic.
+
+---
+
+## Stack
+
+- **Languages** — Python, SQL, R
+- **Warehouse & data** — SQL Server, AWS (Redshift, RDS, S3, Lambda), dbt
+- **BI & viz** — Tableau (certified), Power BI, Looker Studio
+- **ML / NLP** — scikit-learn, XGBoost, PySpark, LLMs, prompt engineering, agent workflows
+- **AI-native dev** — Claude Code, Codex, n8n for workflow automation
+
+---
+
+## Background
+
+15 years across software engineering and data — Infosys, iGate, Amdocs, HPE, ExxonMobil (contract), U.S. Legal Support, IDEO, and now running BI & Analytics at a PE-backed healthcare group.
+
+- **Education** — MBA, C.T. Bauer College of Business, University of Houston · BTech Computer Science, Punjab Technical University
+- **Certifications** — Tableau Desktop Specialist · Microsoft Azure Fundamentals (AZ-900) · Springboard Data Science Career Track
+
+---
+
+📍 Houston, TX  ·  📫 shantanu.rathore@gmail.com
 <br>
 🎓 Springboard Certified Data Scientist
 
