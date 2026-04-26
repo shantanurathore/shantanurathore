@@ -2,7 +2,10 @@
 
 I'm **Manager of BI & Analytics at a PE-backed multi-site healthcare company** in Houston, TX. I run a team of six analysts and partner with operations, finance, and clinical leadership to turn raw operational and clinical data into the metrics that actually run the business.
 
-I started in software engineering, picked up an MBA along the way, and have spent the last decade working at the intersection of data engineering, analytics, and applied ML. My focus today sits in three places: (1) production analytics platforms our operators use every day to run the business, (2) LLM-powered workflows that compress analyst-hours into minutes, and (3) the kind of data infrastructure and reporting discipline a PE sponsor expects from a portfolio company.
+I started in software engineering, picked up an MBA along the way, and have spent the last decade working at the intersection of data engineering, analytics, and applied ML. My focus today sits in three places:
+(1) production analytics platforms our operators use every day to run the business, 
+(2) LLM-powered workflows that compress analyst-hours into minutes, and 
+(3) the kind of data infrastructure and reporting discipline a PE sponsor expects from a portfolio company.
 
 ---
 
