@@ -1,4 +1,3 @@
-## Hi 👋
 # Hi, I'm Shantanu Rathore — also Shan 👋
 
 I'm **Manager of BI & Analytics at a PE-backed multi-site healthcare company** in Houston, TX. I run a team of six analysts and partner with operations, finance, and clinical leadership to turn raw operational and clinical data into the metrics that actually run the business.
@@ -7,7 +6,7 @@ I started in software engineering, picked up an MBA along the way, and have spen
 
 ---
 
-## What I'm building right now
+## What I'm building right now (2026)
 
 - **Physician Scorecard NLP** — extracting structured signals from unstructured physician narrative using LLMs. Currently extending the published version into a more robust, multi-source build.
 - **SQL Server health monitor** — a Python + LLM workflow that scans daily I/O, latency, and read/write logs, identifies the top risk signals across the database, and posts a plain-English maintenance summary to the team.
@@ -48,7 +47,6 @@ I started in software engineering, picked up an MBA along the way, and have spen
 | - [EDA Case Study: Missing data can also tell a story: A Case Study](https://github.com/shantanurathore/Data_Cleaning_Case_Study/blob/main/Clean_Your_Data_GCDA.md) <br>                                                                                                                                                           |         |
 | - [Visual Analysis of Waze user data](https://github.com/shantanurathore/WazeUserChurnAnalysis/blob/main/Waze_User_Data_EDA.ipynb) <br> &nbsp;&nbsp;&bull; [Presentation: Visual Analysis](https://github.com/shantanurathore/WazeUserChurnAnalysis/blob/main/WazeUserChurnAnalysisEDA.pdf) <br><br> |                                       |
 | - **ECommerce Sales Data: Predicting total spend (Multiple Parts)** <br> &nbsp;&nbsp;&bull; [Part 1: Exploratory Data Analysis and Data Cleaning]<br><br>                                                                                                                                            |                                       |
-| - **Predicting House Prices using Boston Housing Data** <br> &nbsp;&nbsp;&bull; [Predicting house prices (Jupyter Notebook)](https://github.com/shantanurathore/SpringBoardExercises/blob/master/Mini_Project_Linear_Regression.ipynb) <br><br>                                                                                      |       |
 | - [A/B Testing guide: Running an A/B test on an Ad Dataset](https://github.com/shantanurathore/AB_Testing_guide/blob/main/AB_testing_guide.md) <br><br>                                                                                                                                                             |                        |
 | - [Payment Default prediction on a bank accounts dataset](https://github.com/shantanurathore/Payment-Default-Prediction/blob/master/DataClean_Pandas1.ipynb) <br><br>                                                                                                                                              |                         |
 | **:stopwatch: Time Series Analysis** <br>                                                                                                                                                                                                                                                                                                                |
